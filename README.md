@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://id.linkedin.com/in/sofian-nasution-0549092a4" target="_blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://kaggle.com/sofiannasution" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="sofiannasution91@gmail.com" target="_blank"><img align="center" src="https://www.reshot.com/preview-assets/icons/KBWMXNVG5Q/email-KBWMXNVG5Q.svg" alt="Gmail" height="40" width="40" /></a>
+  <a href="mailto:sofiannasution91@gmail.com" target="_blank"><img align="center" src="https://www.reshot.com/preview-assets/icons/KBWMXNVG5Q/email-KBWMXNVG5Q.svg" alt="Gmail" height="40" width="40" /></a>
   <a href="https://fb.com/sofian.nasution.146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://discord.com/invite/JRJxJxyp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
   <a href="https://t.me/yansxdi" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" width="40" /></a>
