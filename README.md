@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Sofian</h1>
+<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">I'm Sofian Nasution</h1>
 <h3 align="center">Exploring Data Realms and Securing Cyberspace 🌐🛡️</h3>
 <div align="center">
   <img src="https://media1.tenor.com/m/dgBQgdKf7v0AAAAC/scripting-typing.gif" alt="typing-animation" width="300" height="200" />
