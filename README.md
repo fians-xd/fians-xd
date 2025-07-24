@@ -2,7 +2,7 @@
 <h1 align="center">I'm Sofian Nasution</h1>
 <h3 align="center">Exploring Data Realms and Securing Cyberspace 🌐🛡️</h3>
 <div align="center">
-  <img src="https://media1.tenor.com/m/lFQd30tbl_YAAAAd/lachen.gif" alt="typing-animation" width="300" height="200" />
+  <img src="https://media1.tenor.com/m/x0OZJJFjCRQAAAAC/monkey-pissed.gif" alt="typing-animation" width="300" height="200" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
